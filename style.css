@@ -47,6 +47,10 @@ body{
     padding:5px;
     background-color: #02b573;
 }
+.susim{
+    width: 20px;
+    margin-left: -10px;
+}
 .cir{
    width: 100px;
    height: 100px;
