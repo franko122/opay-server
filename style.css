@@ -40,7 +40,7 @@ body{
 }
 .uper{
     width:95%; 
-    height: 95px;
+    height:fit-content;
     border-radius: 10px;
     margin: auto;
     font-size: 10px;
@@ -83,7 +83,7 @@ body{
 }
 .ful{
     color: #02b573;
-    font-size: 13px;
+    font-size: 10px;
 }
 .money{
   border: none; 
