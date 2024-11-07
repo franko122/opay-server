@@ -1,0 +1,238 @@
+body{
+    padding: 0%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0px;
+}
+.lokm{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #02b573a8;
+}
+.oapy1{
+    display: flex;
+    width: 96%;
+    font-size: 10px;
+    justify-content: space-around;
+}
+.big{
+            width: 70px;
+            background-color: #02b573;
+            height: 70px;
+            display: flex; 
+            z-index: 20px;
+            justify-content: space-around;
+            position: fixed; 
+}
+.downer{
+    width: 90%;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: space-around;
+    background-color: rgb(248, 248, 248);
+    
+}
+.uper{
+    width:95%; 
+    height: 95px;
+    border-radius: 10px;
+    margin: auto;
+    font-size: 10px;
+    padding:5px;
+    background-color: #02b573;
+}
+.cir{
+   width: 100px;
+   height: 100px;
+   background-color:#02b573 ;
+   border-radius: 100px;
+}
+.mainhu{
+    font-size:12px;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+}
+.downside{
+    width: 95%;
+    margin: auto; 
+    background-color: rgb(248, 248, 248);
+}
+.zona{
+    color: black;
+}
+.down{  
+    color: white;
+    display: flex;
+    margin: auto;
+    align-items: center ; 
+    justify-content: space-between;
+}
+.ons{
+    margin-right: 10px; 
+    z-index: 222;
+}
+.Able{
+    margin-left:10px;
+}
+.ful{
+    color: #02b573;
+}
+.money{
+  border: none; 
+  margin-right:10px;
+  background-color: white;
+  border-radius: 10px;
+  color:#02b573 ; 
+  padding: 10px;  
+}
+.ance{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.nav{
+    width: 90%;
+    padding:2px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: space-between; 
+}
+.dash{
+    width: 100%;
+    height: 100vh;
+    z-index: 333;
+    display: none;
+    position: fixed; 
+    background-color: white;
+} 
+.opaytran{
+    padding: 10px;
+    text-align: center;
+    color: #02b573;
+    font-size: 20px;
+}
+.in{
+    text-align: center;
+    color:  #02b573;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.topside{
+    display: none;
+}
+.secs{
+    width:90%;
+    outline: none;
+    border-radius: 10px;
+    border: #02b573 solid 4px ;
+    padding: 12px;
+}
+.sec{
+    margin: auto; 
+    width: 90%;  
+    height: 100vh; 
+    display: none;
+}
+.seco{
+    margin: auto; 
+    width: 90%;  
+    display: flex;
+    align-items: center;
+    height: 100vh; 
+}
+.me{
+    width: 100%;
+}
+.mity{
+    padding:20px;
+    width: 100%;
+    margin-left:-4px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #02b573;
+}
+.we{
+ width: 70px;
+ height: inherit;
+ background-color: #02b573;
+}
+.cir{
+ width: 20px;
+ color: white;
+ height: 20px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ font-size: 8px;
+ background-color: #02b573;
+ border-radius: 100px;
+}
+.uscontain{
+    width: 80%;
+    height: 3px;
+    display: flex;
+    align-items: center ;
+    justify-content: space-around; 
+    margin: auto; 
+}
+.opaytrans{ 
+    margin-top: -10px;
+    text-align: center;
+    color: black;
+    font-size: 19px;
+}
+.opays{
+    margin: auto;
+    width:85%;
+}
+.molo::placeholder{
+    color: #02b573;
+}
+.molo{
+    padding: 10px;
+    outline: none;
+    width:90%;
+    border-radius: 7px;
+    border: #02b573 solid 3px ;
+}
+.loolos{
+    cursor: pointer;
+    margin-top: 10px;
+    background-color: #02b573;
+    outline: none;
+    color: white;
+    border: none;
+    padding: 10px;
+    width:100%;
+}
+.hertpa{
+    width: 90%;
+    margin: auto;
+}
+.detaisl{
+    width: 100%; 
+    height: 100vh;
+    background-color: rgb(250, 250, 250);
+    display: none;
+    position: fixed;
+    z-index: 22;
+}
+.gol{
+    margin-left: -20px;
+}
+.molko{
+    border-radius: 10px;
+    width: 90%;
+    margin: auto;
+    background-color: #02b57342;
+    height: 300px;
+}
